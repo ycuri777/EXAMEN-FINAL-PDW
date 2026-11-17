@@ -3,6 +3,8 @@
 **Autor:** YIYE AARON CURI ALCANTARA · **Código:** 26104320
 
 Aplicación Flask + SQLite para el desafío oficial NASA Space Apps Challenge 2026 [Field Shift: Adapting Farms with NASA Data](https://www.spaceappschallenge.org/2026/challenges/field-shift-adapting-farms-with-nasa-data/).
+Orientado al reto **Cambio de rumbo: Adaptando las granjas con datos de la NASA**
+
 
 ## Funcionalidades
 - Registro, inicio y cierre de sesión; contraseñas con hash Werkzeug.
