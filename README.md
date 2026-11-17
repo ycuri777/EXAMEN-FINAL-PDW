@@ -33,7 +33,7 @@ Clic aqui:
 <h2 align="center">🌐 ACCESO AL SISTEMA WEB</h2>
 
 <p align="center">
-  <a href="https://examen-final-pdw.onrender.com/dashboard/">
+  <a href="https://examen-final-pdw.onrender.com/">
     <img src="https://img.shields.io/badge/INGRESAR_AL_SISTEMA-CLICK_AQUÍ-red?style=for-the-badge">
   </a>
 </p>
